@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Zireva</h1>
 <h3 align="center">A passionate frontend developer from Zimbabwe based in South Africa</h3>
 
-- 🔭 I’m currently working on **Machine Learning Project**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Kafka and Airflow**
 
