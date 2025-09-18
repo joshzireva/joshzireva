@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Zireva</h1>
 <h3 align="center">A passionate frontend developer from Zimbabwe based in South Africa</h3>
 
-- 🔭 I’m currently working on **Terrafrom**
+- 🔭 I’m currently working on **Terraform**
 
 - 🌱 I’m currently learning **HCL**
 
