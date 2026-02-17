@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joshua Zireva</h1>
 <h3 align="center">A passionate Power BI developer based in Pretoria, South Africa</h3>
 
-- 🔭 I’m currently working on **Terraform**
+- 🔭 I’m currently working on **Tableau**
 
-- 🌱 I’m currently learning **HCL**
+- 🌱 I’m currently learning **Tableau**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
 - 🤝 I’m looking for help with **DevOps**
 
-- Contact Calls/Whatsapp [+27 78 741 9233]
+- Contact Calls/Whatsapp +27 78 741 9233
 
 - 💬 Ask me about **Python**
 
